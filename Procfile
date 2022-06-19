@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run nst.py
+web: sh setup.sh && streamlit run new_brain.py
